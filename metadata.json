@@ -1,0 +1,8 @@
+{
+  "name": "ClinicaPro - White Label Management",
+  "description": "A high-end, white-label medical and dental clinic management system featuring AI-driven appointment confirmation, personalized post-care, and streamlined budget approvals.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
